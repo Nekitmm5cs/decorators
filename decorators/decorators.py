@@ -1,0 +1,3 @@
+@data_collector
+def collector1():
+    ...

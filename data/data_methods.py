@@ -1,0 +1,3 @@
+@data_collector
+def data_methods():
+    ...
